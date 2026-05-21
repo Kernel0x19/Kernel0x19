@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f1a,100:f97316&height=120&section=header" width="100%"/>
+</div>
 
-<!--
-**Kernel0x19/Kernel0x19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Mangnale Prathamesh Shivanand 👋</h1>
 
-Here are some ideas to get you started:
+BTech CSE (AI) student at VIT Pune — building things on the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+ 
+- **[IndRail](https://dev.codewithpratham.me/indrail)** — Full-stack train booking platform with neo-brutalist UI, JWT auth, OTP flows, and session management.
+- **[Portfolio](https://codewithpratham.me)** — Personal site built with React + Tailwind, hosted on Cloudflare Pages.
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,vite,git,python,java&theme=dark" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:0d0f1a&height=80&section=footer" width="100%"/>
+</div>
+
